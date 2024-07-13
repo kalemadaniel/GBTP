@@ -31,10 +31,34 @@ L'application se presente comme suit à l'ouverture
 
 
 En cliquant sur le bouton Planning
+![plan](https://github.com/user-attachments/assets/0fa77fd4-2da1-4624-9525-09874cea161b)
 
+Aussi
+
+![plan 2](https://github.com/user-attachments/assets/828e2e06-5f99-4d40-8fe2-bb76d5d2b853)
 
 En cliquant sur le bouton Client/Frounisseur
+![cl1](https://github.com/user-attachments/assets/6915e746-5e38-485b-87b9-94b293bb697f)
 
+Puis
+
+![cl2](https://github.com/user-attachments/assets/067eb5b3-1242-41b6-9036-83580cb5be28)
+
+Puis
+
+![cl3](https://github.com/user-attachments/assets/2f82589d-a045-4287-885a-5dee25454748)
+
+Puis
+
+![plan 4](https://github.com/user-attachments/assets/6ea7ea43-a0e4-4d55-bdb9-ff11dcecd31a)
+
+En cliquant sur le bouton Paramètre
+
+![params 1](https://github.com/user-attachments/assets/350b8e98-2c4a-4083-a276-911b1602bc66)
+
+En cliquant sur le Bouton Dévis et Facture
+
+![plan 3](https://github.com/user-attachments/assets/d1432333-d592-4d46-b5ad-83633842577c)
 
 _les composants de construction :_
 
