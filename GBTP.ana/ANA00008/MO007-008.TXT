@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+tb_client		TAR	1227	nouvelle taille enregistrement : 1227
+tb_client	Type	TAI+	1	la rubrique Type a comme nouvelle taille 12 au lieu de 11

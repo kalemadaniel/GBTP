@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+tb_client		TAR	1215	nouvelle taille enregistrement : 1215
+tb_client	stat	RUB+		stat est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+tb_Parametres	Type	CLE-*		la rubrique Type n'est plus une clé
+tb_Parametres	Code	CLE-*		la rubrique Code n'est plus une clé
+tb_Parametres	Ordre	CLE-*		la rubrique Ordre n'est plus une clé

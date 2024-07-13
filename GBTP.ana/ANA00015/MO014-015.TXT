@@ -1,0 +1,3 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+tb_client		TAR	11228	nouvelle taille enregistrement : 11228
+tb_client	notesociete	RUB+		notesociete est une nouvelle rubrique

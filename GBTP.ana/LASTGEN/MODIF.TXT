@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+tb_client		TAR	11236	nouvelle taille enregistrement : 11236
+tb_client	commentaire_style	RUB+		commentaire_style est une nouvelle rubrique

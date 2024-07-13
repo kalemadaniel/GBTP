@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+tb_Parametres		TAR	102	nouvelle taille enregistrement : 102
+tb_Parametres	Ordre	CNW	Entier non signé sur 2 octets$Entier sur 1 octet	la rubrique Ordre a pour nouveau type Entier non signé sur 2 octets

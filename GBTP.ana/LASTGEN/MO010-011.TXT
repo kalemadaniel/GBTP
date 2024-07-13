@@ -1,0 +1,8 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+tb_planning		TAR	5257	nouvelle taille enregistrement : 5257
+tb_planning	type_planning	TAI+	30	la rubrique type_planning a comme nouvelle taille 51 au lieu de 21
+tb_planning	date_debut	CNW	Date et Heure (aaaammjjhhmmssccc)$Date (aaaammjj)	la rubrique date_debut a pour nouveau type Date et Heure (aaaammjjhhmmssc
+tb_planning	date_fin	CNW	Date et Heure (aaaammjjhhmmssccc)$Chaîne	la rubrique date_fin a pour nouveau type Date et Heure (aaaammjjhhmmssc
+tb_planning	hey	RUB+		hey est une nouvelle rubrique
+tb_planning	heure_debut	RUB-		la rubrique heure_debut est supprimée
+tb_planning	heure_fin	RUB-		la rubrique heure_fin est supprimée

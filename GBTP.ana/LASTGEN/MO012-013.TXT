@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+tb_pjt_contacte		NFI		nouveau fichier
+Contrainte_tb_client_tb_pjt_contacte		NWL	tb_client (id_client) et tb_pjt_contacte (Ref_client)	Nouvelle liaison entre les fichiers tb_client (id_client) et tb_pjt_contacte (Ref_client)

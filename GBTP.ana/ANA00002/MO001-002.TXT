@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+tb_Parametres		NFI		nouveau fichier
+tb_Parametres		FRN		

@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+tb_planning		TAR	5268	nouvelle taille enregistrement : 5268
+tb_planning	rappel	CNW	Chaîne$Heure (hhmm)	la rubrique rappel a pour nouveau type Chaîne
+tb_planning	hey	RUB-		la rubrique hey est supprimée

@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+tb_client	societe	CLEN*		la rubrique societe est maintenant une clé
